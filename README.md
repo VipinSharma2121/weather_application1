@@ -1,0 +1,1 @@
+A Python-based Weather Application that retrieves real-time weather data for any city using the OpenWeatherMap API. Built with a clean user interface using Tkinter (or command-line) and includes key weather details like temperature, humidity, wind speed, and condition descriptions. Easy to set up and customize.
